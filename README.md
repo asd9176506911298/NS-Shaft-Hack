@@ -1,4 +1,4 @@
 # StairFly
 
-# Video Tutorial
+# Video
 https://youtu.be/C_5tkkITNus
