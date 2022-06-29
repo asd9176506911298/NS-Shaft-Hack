@@ -1,5 +1,8 @@
 # StairFly
 
+![stair](https://user-images.githubusercontent.com/35301327/176501944-4764838d-7dd7-42e8-b4ac-770cfc2c951f.png)
+
+
 # Video
 https://youtu.be/C_5tkkITNus
 
